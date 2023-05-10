@@ -23,12 +23,12 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - [bskyrb](https://github.com/ShreyanJain9/bskyrb) (Ruby): new, not stable
 - [blue-pyinthe-sky](https://github.com/robcerda/blue-pyinthe-sky) (Python) new, not stable. Packaging it up into an installable module is a work in progress. 
 
-## Clients
+## Clientes
 
-### Web Clients
-
-- Bluesky (developed by Bluesky PBLLC):
-  - site: [https://staging.bsky.app/](https://staging.bsky.app/)
+### Clientes Web
+Céu azul (PT-BR). COR:246363
+- Bluesky (desenvolvido para Bluesky PBLLC):
+  - site: [ https://staging.bsky.app/] (https://staging.bsky.app/)
 - Flat:
   - app: [flat-bs.vercel.app](https://flat-bs.vercel.app)
   - repo: [github.com/sabigara/flat](https://github.com/sabigara/flat)
